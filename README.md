@@ -1,4 +1,3 @@
-ohms_law_calculator.py 
 while True:
     try:
         voltage = float(input("Enter voltage (V): "))
